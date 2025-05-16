@@ -1,4 +1,4 @@
-s## 1. ¿Qué es un caso de uso?
+### 1. ¿Qué es un caso de uso?
 
 Un **caso de uso** agrupa varios **escenarios** que comparten un mismo objetivo de usuario. Cada escenario es una secuencia concreta de pasos en la que el actor interactúa con el sistema. Aunque los escenarios puedan fallar o variar, el objetivo común (“comprar un producto”, “registrarse”, etc.) permanece constante .
 

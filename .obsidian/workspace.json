@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "2db90bc8afd0b4d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d737371358debb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91a73fbe8bb2656e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Casos de uso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Casos de uso"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65c26c1e674c3ab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4e4f7922f81d759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b29934da15e87d3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "219def249f82f5e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "1ce36e23bbbcae83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49bb729d01f976d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9130ac39eac26e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbd1e2c5787fcedc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Casos de uso.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Casos de uso"
+            }
+          },
+          {
+            "id": "4749d9097f596062",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "f94ea2795931deb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "eb36445a55ddc0e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "91a73fbe8bb2656e",
+  "lastOpenFiles": [
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Diagramas de interacción.md",
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Diagramas de secuencia.md",
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Casos de uso.md",
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Figura9.2.png",
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Figura9.1.png",
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Figura4.6.png",
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Figura4.5.png",
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Figura4.4.png",
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Figura4.3.png",
+    "2025-05-14.md",
+    "Diagramas.md",
+    "().md",
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Figura4.1.png",
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento./Figura4.2.png",
+    "Pasted image 20250516085557.png",
+    "Imagen JDBC RTURN_GENERATED_KEYS.png",
+    "Diagramas de interacción",
+    "UD5. Diseño Orientado a Objetos. Diagramas de Comportamiento.",
+    "JSPServlet/RETURN_GENERATED_KEYS.canvas",
+    "JSPServlet/JDBC RETURN_GENARATED_KEYS.md",
+    "Diagramas de Interacción.md",
+    "JSPServlet",
+    "Diagramas de Secuencia.md",
+    "Diagrama de secuencia.md",
+    "Sin título 1.canvas",
+    "spring boot + angular + keycloak.md",
+    "Sin título.canvas",
+    "cree un enlace.md",
+    "Bienvenido.md",
+    "2025-05-01.md",
+    "dsfa.md"
+  ]
+}

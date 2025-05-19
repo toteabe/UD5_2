@@ -26,8 +26,8 @@ Un diagrama de secuencia muestra cómo un conjunto de participantes colabora par
 ### 3. Estilos de control: centralizado vs. distribuido
 
 - **Control centralizado:** un único participante orquesta casi todo el procesamiento, solicitando datos o servicios a los demás (Figura 4.1). Es más sencillo de leer al concentrar la lógica en un solo punto .
-
 ![[Figura4.1.png]]
+
     
 - **Control distribuido:** cada participante asume pequeñas responsabilidades y colabora delegando entre sí (Figura 4.2). Favorece la cohesión de datos y comportamiento, facilita el uso de polimorfismo y reduce los efectos colaterales de los cambios .
 ![[Figura4.2.png]]

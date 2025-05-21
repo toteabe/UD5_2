@@ -2,7 +2,8 @@ Los diagramas de interacción en UML son un subconjunto de los diagramas de comp
 
 ## ¿Para qué sirven?
 
-- **Visualizar el flujo de control y datos** entre instancias (objetos, componentes) a lo largo del tiempo.
+- **Visualizar el flujo de control y datos** entre instancias (objetos, componentes) a lo largo del tiempo. 
+
 
 - **Aclarar requisitos** de interacción antes de la implementación, detectando posibles errores de diseño.
    
